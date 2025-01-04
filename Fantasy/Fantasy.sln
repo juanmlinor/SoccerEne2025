@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Shared", "..\..\..\Users\Charly\source\repos\Soccer2024\Fantasy\Fantasy.Shared\Fantasy.Shared.csproj", "{7DC1FE12-78B0-456E-A85C-B3EB3ECD212E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Backend", "..\..\..\Users\Charly\source\repos\Soccer2024\Fantasy\Fantasy.Backend\Fantasy.Backend.csproj", "{6D24489C-9320-4673-A916-BA1F736D79E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Frontend", "..\..\..\Users\Charly\source\repos\Soccer2024\Fantasy\Fantasy.Frontend\Fantasy.Frontend.csproj", "{AFDD9FAD-205E-438E-A95E-FC3826285A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC1FE12-78B0-456E-A85C-B3EB3ECD212E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC1FE12-78B0-456E-A85C-B3EB3ECD212E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC1FE12-78B0-456E-A85C-B3EB3ECD212E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC1FE12-78B0-456E-A85C-B3EB3ECD212E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D24489C-9320-4673-A916-BA1F736D79E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D24489C-9320-4673-A916-BA1F736D79E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D24489C-9320-4673-A916-BA1F736D79E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D24489C-9320-4673-A916-BA1F736D79E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDD9FAD-205E-438E-A95E-FC3826285A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDD9FAD-205E-438E-A95E-FC3826285A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDD9FAD-205E-438E-A95E-FC3826285A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDD9FAD-205E-438E-A95E-FC3826285A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
